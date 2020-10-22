@@ -16,9 +16,9 @@ public class EmailUtil {
         email.setHostName("SMTP.qq.com");//邮件服务器
 
         //授权码：wvdyijdfglykbhhh
-        email.setAuthentication("495586804@qq.com","eeuulwflfejdbgcg");//邮件登录用户名及授权码
+        email.setAuthentication("******@qq.com","22222222");//邮件登录用户名及授权码
         email.setSSLOnConnect(true);//ssl加密
-        email.setFrom("495586804@qq.com","RHRChat");//发送方邮箱/发送方名称
+        email.setFrom("*****@qq.com","RHRChat");//发送方邮箱/发送方名称
         email.setSubject("用户忘记密码邮件");//主题名称
         email.setCharset("UTF-8");//设置字符集编码
         email.setMsg(msg);//发送内容
