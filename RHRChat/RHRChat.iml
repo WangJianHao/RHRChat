@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="tapestry" name="Tapestry">
+      <configuration>
+        <setting name="filterName" value="rhrchat" />
+        <setting name="applicationPackage" value="com.app" />
+        <setting name="version" value="5.3.6" />
+      </configuration>
+    </facet>
+  </component>
+</module>
